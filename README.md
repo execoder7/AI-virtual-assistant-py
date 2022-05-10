@@ -1,4 +1,4 @@
-# virtual-assistant-py
+# AI-virtual-assistant-py
 
 A command-line based Virtual Assistant with voice recognition commands
 
